@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: KERVEN M. DURDYMYRADOV
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kerven
+last_name: Durdymyradov
 
 # Status emoji
 status:
@@ -17,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: King Abdullah University of Science and Technology
+    url: https://www.kaust.edu.sa/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
