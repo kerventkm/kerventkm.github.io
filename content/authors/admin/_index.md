@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: King Abdullah University of Science and Technology
+      year: 2022 - Present
+    - course: MS in Artificial Intelligence
+      institution: Moscow Institute of Physics and Technology
+      year: 2020 - 2022
+    - course: BSc in Applied Mathematics
+      institution: Magtymguly Turkmen State University
+      year: 2012 - 2017
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
