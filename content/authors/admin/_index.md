@@ -1,9 +1,9 @@
 ---
 # Display name
-title:
+title: Kerven M. Durdymyradov
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Kerven
@@ -11,7 +11,7 @@ last_name: Durdymyradov
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: King Abdullah University of Science and Technology
+    url: https://www.kaust.edu.sa/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kerven.durdymyradov@kaust.edu.sa'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,72 +40,79 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://linkedin.com/in/kerven-durdymyradov
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
+  - Decision Trees
+  - Machine Learning
+  - Deep Learning
+  - Graph Theory
+  - Graph Neural Networks
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Computer Science
+    institution: King Abdullah University of Science and Technology
+    date_start: 2022-09-01
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: 3.95/4.00
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on _Relations between Decision Trees and Decision Rule Systems_. Supervised by Prof. Mikhail Moshkov.
+  - area: MS, Modern State of Artificial Intelligence
+    institution: Moscow Institute of Physics and Technology
+    date_start: 2020-09-01
+    date_end: 2022-06-30
+    summary: |
+      GPA: 3.7/4.0
+      
+      Thesis on _Neural Networks for Brain-Computer Interfaces_. Supervised by Prof. Vladislav Goncharenko.
+  - area: BS, Applied Mathematics and Information Technology
+    institution: Magtymguly Turkmen State University
+    date_start: 2012-09-01
+    date_end: 2017-06-30
+    summary: |
+      GPA: 3.9/4.0
+      
+      Thesis on _Servicing on multiple stream systems_. Supervised by Prof. Orazmammet Annaorazov.
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Instructor & Teaching Assistant
+    company_name: KAUST Academy
+    company_url: 'https://academy.kaust.edu.sa/'
+    date_start: 2023-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Teaching responsibilities include:
+      - Advanced AI, UQU University (Instructor)
+      - Introduction to Probability and Statistics, MOI (TA)
+      - Advanced AI, TAHAKOM (TA)
+      - Introduction to AI, King Khalid University (Instructor)
+      - Introduction to AI, Jazan University (TA)
+  - position: AI Intern
+    company_name: Saudi Aramco - AI and Advanced Computing Department
+    company_url: 'https://www.aramco.com/'
+    date_start: 2024-06-01
+    date_end: 2024-08-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Utilizing Graph Representation to speed up simulations for permeability of the rocks by GNN.
+  - position: AI Consultant
+    company_name: Belet
+    date_start: 2024-04-01
+    date_end: 2024-10-31
+    summary: |
+      Built a Movie Recommendation System for the company.
+  - position: Mathematics Instructor
+    company_name: The State Energy Institute of Turkmenistan
+    date_start: 2017-09-01
+    date_end: 2020-06-30
+    summary: |
+      - Taught calculus
+      - Led the Mathematics Olympiad team at the university
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,73 +121,76 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 95
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
-      - name: SQL
+      - name: Deep Learning
         description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
+        percent: 85
+        icon: brain
+      - name: Graph Neural Networks
+        description: ''
+        percent: 80
+        icon: network-wired
+  - name: Libraries & Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: PyTorch
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 90
+        icon: pytorch
+      - name: TensorFlow
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 85
+        icon: tensorflow
+      - name: Scikit-Learn
         description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        icon: scikit-learn
 
 languages:
   - name: English
+    percent: 90
+  - name: Turkish
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Russian
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Bronze Medal - 51st International Mathematical Olympiad (IMO)
+    date: '2011-07-01'
+    awarder: IMO
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded Bronze Medal at the International Mathematical Olympiad held in Netherlands.
+  - title: Winner - Open Doors International Olympiad
+    date: '2022-01-01'
+    awarder: Open Doors
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      First place in Mathematics & AI track, Russia.
+  - title: Silver Medal - Balkan Mathematical Olympiad (BMO)
+    date: '2011-05-01'
+    awarder: BMO
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded Silver Medal at the Balkan Mathematical Olympiad held in Romania.
+  - title: Bronze Medal - International Mathematical Competition (IMC)
+    date: '2014-07-01'
+    awarder: IMC
+    summary: |
+      Awarded Bronze Medal at the International Mathematical Competition held in Bulgaria.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student in Computer Science at King Abdullah University of Science and Technology (KAUST), specializing in decision trees, machine learning, deep learning, and graph theory. My research focuses on the relationships between decision trees and decision rule systems, under the supervision of Prof. Mikhail Moshkov.
+
+With an M.S. in Artificial Intelligence from Moscow Institute of Physics and Technology and a Bachelor's in Applied Mathematics, I bring a strong mathematical foundation to my research in AI and machine learning. I have industry experience through internships at Saudi Aramco's AI and Advanced Computing Department, where I worked on applying Graph Neural Networks to geological problems.
+
+I am passionate about teaching and sharing knowledge, currently serving as an instructor and teaching assistant at KAUST Academy for various AI and mathematics courses. My research has led to several publications in the fields of decision trees, rule systems, and graph neural networks.

@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV.pdf
     design:
       css_class: dark
       background:
@@ -35,11 +35,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on the theoretical and practical aspects of decision trees and decision rule systems. I investigate the relationships between these fundamental structures in machine learning and their applications in real-world scenarios.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Currently, I am working on:
+        - Analyzing the complexity relationships between decision trees and decision rule systems
+        - Developing efficient algorithms for transforming between different decision system representations
+        - Applying graph neural networks to geological problems in collaboration with Saudi Aramco
         
-        Please reach out to collaborate 😃
+        I am always open to collaborations and discussions about research in machine learning, decision systems, and graph neural networks. Feel free to reach out! 😊
     design:
       columns: '1'
   - block: collection
